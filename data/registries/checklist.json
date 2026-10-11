@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "registry": "checklist",
+  "description": "100% checklist TARGETS as given in the brief (§28). They are reference targets, not verified against an installation. Eligibility rules are not yet researched, so no entry is counted.",
+  "records": [
+    { "id": "chk.story_missions", "name": "Story missions", "status": "unresearched", "target": 69, "source": "brief §28", "confidence": "unknown", "eligibility": "unresearched", "qualifying_entries": [] },
+    { "id": "chk.strangers_and_freaks", "name": "Strangers and Freaks (qualifying)", "status": "unresearched", "target": 20, "source": "brief §28", "confidence": "unknown", "eligibility": "unresearched", "qualifying_entries": [] },
+    { "id": "chk.hobbies_pastimes", "name": "Hobbies and pastimes (qualifying)", "status": "unresearched", "target": 42, "source": "brief §28", "confidence": "unknown", "eligibility": "unresearched", "qualifying_entries": [] },
+    { "id": "chk.random_events", "name": "Random events (qualifying)", "status": "unresearched", "target": 14, "source": "brief §28", "confidence": "unknown", "eligibility": "unresearched", "qualifying_entries": [] },
+    { "id": "chk.misc_objectives", "name": "Miscellaneous objectives", "status": "unresearched", "target": 16, "source": "brief §28", "confidence": "unknown", "eligibility": "unresearched", "qualifying_entries": [] }
+  ]
+}

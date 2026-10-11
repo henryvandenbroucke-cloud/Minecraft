@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "registry": "update_manifest",
+  "description": "Title-update manifest for the pinned reference profile (REF-ENH-PC-TU173). Platform gates are copied from official notes where the search excerpt confirmed them.",
+  "records": [
+    {
+      "id": "tu.1.73",
+      "name": "Title Update 1.73 (The Kortz Center Heist)",
+      "status": "researched",
+      "confidence": "published",
+      "released": "2026-07-16",
+      "platforms": ["PS5","Xbox Series X|S","PC Enhanced","PC Legacy (per official article title)"],
+      "source": ["https://support.rockstargames.com/articles/4vRqEDvjUs9h7nqRUgc8YO/gtav-title-update-1-73-notes-ps5-ps4-xbox-series-x-or-s-xbox-one-pc-enhanced-legacy","https://gta.wiki/w/Grand_Theft_Auto_V/Title_Update_Notes"],
+      "content_records": ["Kortz Center Heist (1-4 players; Art Studio via Prix Luxury Real Estate)","Seven new vehicles incl. Vapid Caracara (Armored) (Off-Road) — HSW-gated variants per notes","Mission Creator: Warp Points, 32 Objective Objects, cutscene limit 3→5, CCTV cameras, 60 shared collectable/pickup cap"],
+      "economy_overrides": "data/economy/tunables-tu1.73.json",
+      "superseded_rules": "Repeated-completion payouts for weekly-refresh missions reduced; first-completion bonuses raised (qualitative; values not captured)",
+      "test_ids": []
+    },
+    {
+      "id": "tu.1.73.drip.2026-07-23",
+      "name": "1.73 drip: Pegassi Ignus Pursuit (Emergency)",
+      "status": "researched", "confidence": "published", "released": "2026-07-23", "platforms": ["PS5","Xbox Series X|S","PC Enhanced/Legacy"],
+      "source": "Rockstar TU 1.73 notes (updated 2026-10-01)", "content_records": ["Pegassi Ignus Pursuit"], "test_ids": []
+    },
+    {
+      "id": "tu.1.73.drip.2026-08-13", "name": "1.73 drip: Gallivanter Warden (SUV)", "status": "researched", "confidence": "published", "released": "2026-08-13", "platforms": ["PS5","Xbox Series X|S","PC Enhanced/Legacy"], "source": "Rockstar TU 1.73 notes (updated 2026-10-01)", "content_records": ["Gallivanter Warden"], "test_ids": []
+    },
+    {
+      "id": "tu.1.73.drip.2026-08-27", "name": "1.73 drip: drift-tuning vehicles and Random Transform Races", "status": "researched", "confidence": "published", "released": "2026-08-27", "platforms": ["PS5","Xbox Series X|S","PC Enhanced/Legacy"], "source": "Rockstar TU 1.73 notes (updated 2026-10-01)", "content_records": ["Annis Elegy Retro Custom","Invetero Coquette","Vapid Dominator GTT","3 Known Unknown and 2 Unknown Unknown Random Transform Races"], "test_ids": []
+    },
+    {
+      "id": "tu.1.73.drip.2026-09-10", "name": "1.73 drip: Pegassi Horus (Super)", "status": "researched", "confidence": "published", "released": "2026-09-10", "platforms": ["PS5","Xbox Series X|S","PC Enhanced/Legacy"], "source": "Rockstar TU 1.73 notes (updated 2026-10-01)", "content_records": ["Pegassi Horus"], "test_ids": []
+    },
+    {
+      "id": "tu.1.73.drip.2026-10-01", "name": "1.73 drip: Halloween event (returning content)", "status": "researched", "confidence": "published", "released": "2026-10-01", "platforms": ["PS5","Xbox Series X|S","PC Enhanced/Legacy"], "source": "Rockstar TU 1.73 notes (updated 2026-10-01); event window 2026-10-01 to 2026-11-04", "content_records": ["evt.halloween_2026"], "test_ids": []
+    }
+  ]
+}

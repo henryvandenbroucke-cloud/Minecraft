@@ -1,0 +1,289 @@
+{
+  "schema_version": 1,
+  "registry": "locations",
+  "description": "Regional and instance locations (brief §7). Only the Saltline test district is implemented.",
+  "records": [
+    {
+      "id": "loc.saltline.test_district",
+      "name": "Saltline test district (procedural)",
+      "status": "tested",
+      "source": "saltline original procedural district",
+      "confidence": "provisional",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [
+        "T-WRL-001",
+        "T-WRL-002"
+      ],
+      "notes": "Milestone A streamed test area. Not a map of any reference city."
+    },
+    {
+      "id": "loc.area.downtown_towers",
+      "name": "Downtown towers",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "notes": "Brief §7 area type."
+    },
+    {
+      "id": "loc.area.urban_grid",
+      "name": "Urban grid",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "notes": "Brief §7 area type."
+    },
+    {
+      "id": "loc.area.freeway_interchanges",
+      "name": "Freeway interchanges",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": []
+    },
+    {
+      "id": "loc.area.affluent_hills",
+      "name": "Affluent hills",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": []
+    },
+    {
+      "id": "loc.area.residential_neighborhoods",
+      "name": "Residential neighborhoods",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": []
+    },
+    {
+      "id": "loc.area.industrial",
+      "name": "Industrial areas",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": []
+    },
+    {
+      "id": "loc.area.port",
+      "name": "Port and harbor",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": []
+    },
+    {
+      "id": "loc.area.airport",
+      "name": "Airport runways",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": []
+    },
+    {
+      "id": "loc.area.canals",
+      "name": "Canals",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": []
+    },
+    {
+      "id": "loc.area.beaches",
+      "name": "Beaches",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": []
+    },
+    {
+      "id": "loc.area.desert_towns",
+      "name": "Desert towns",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": []
+    },
+    {
+      "id": "loc.area.farmland",
+      "name": "Farms",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": []
+    },
+    {
+      "id": "loc.area.mountains",
+      "name": "Mountains",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": []
+    },
+    {
+      "id": "loc.area.forest",
+      "name": "Forest",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": []
+    },
+    {
+      "id": "loc.area.military_grounds",
+      "name": "Military grounds",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": []
+    },
+    {
+      "id": "loc.area.prison",
+      "name": "Prison",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": []
+    },
+    {
+      "id": "loc.area.research_facility",
+      "name": "Research facility",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": []
+    },
+    {
+      "id": "loc.area.railways",
+      "name": "Railways",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": []
+    },
+    {
+      "id": "loc.area.reservoir_river",
+      "name": "Reservoirs and rivers",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": []
+    },
+    {
+      "id": "loc.area.offshore_underwater",
+      "name": "Offshore water and underwater",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": []
+    },
+    {
+      "id": "loc.area.snowy_prologue",
+      "name": "Snowy prologue location (own world instance)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": []
+    },
+    {
+      "id": "loc.area.cayo_island",
+      "name": "Cayo Perico-style island (own world instance)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": []
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Saltline: original open-world action prototype (not affiliated with Rockstar Games)." />
+    <title>Saltline — Milestone A prototype</title>
+    <link rel="stylesheet" href="/src/ui/styles.css" />
+  </head>
+  <body>
+    <div id="app">
+      <canvas id="view" aria-label="Game view"></canvas>
+      <div id="hud" aria-live="polite"></div>
+      <div id="prompt" class="prompt" hidden></div>
+      <div id="menu" class="overlay" hidden></div>
+      <div id="start" class="overlay start">
+        <div class="card">
+          <h1>Saltline</h1>
+          <p class="sub">Milestone A prototype — an original district, one car, and a save slot.</p>
+          <button id="start-btn" type="button">Click to play</button>
+          <p class="hint">WASD move · Shift sprint · Space jump · F enter/exit car · V camera · Esc pause · F5/F9 save/load</p>
+          <p class="hint small">Not affiliated with Rockstar Games. Placeholder art and names.</p>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "snapshot_id": "tunables-tu173-2026-10-11",
+  "status": "structure-only",
+  "captured": "2026-10-11",
+  "reference": "REF-ENH-PC-TU173",
+  "policy": "No numeric payout, price, probability, cut, or cooldown is asserted here. Values require an installed reference or an official data source. Null means 'not captured'.",
+  "qualitative_changes_from_official_notes": [
+    { "id": "eco.tu173.weekly_completion_bonuses", "scope": "several Contact Missions and Heists", "change": "Weekly completion bonuses added", "values": null, "source": "twistedvoxel summary of TU 1.73 notes; verify on Rockstar notes" },
+    { "id": "eco.tu173.first_weekly_completion", "scope": "eligible activities", "change": "Increased GTA$ rewards during first weekly completion", "values": null, "source": "twistedvoxel summary of TU 1.73 notes; verify" },
+    { "id": "eco.tu173.repeat_completion", "scope": "same weekly period", "change": "Reduced rewards for repeated completions", "values": null, "source": "twistedvoxel summary of TU 1.73 notes; verify" },
+    { "id": "eco.tu173.cayo_targets", "scope": "The Cayo Perico Heist", "change": "Primary and secondary target appearance rates now refresh weekly; target values adjusted", "values": null, "source": "Insider Gaming summary of TU 1.73 notes; verify" },
+    { "id": "eco.tu173.setup_rewards", "scope": "Original Heists and The Doomsday Heist setup missions", "change": "Setup mission GTA$ rewards increased", "values": null, "source": "Insider Gaming summary; verify" },
+    { "id": "eco.tu173.doomsday_repeat_fix", "scope": "Doomsday Heist Acts I-III repeated completions", "change": "Repeat payouts corrected to originally intended values", "values": null, "source": "Rockstar TU 1.73 notes, 2026-07-16" }
+  ],
+  "saltline_policy": "Saltline ships its own dated economy file. Reference-derived values can be entered only with a citation and a 'verified' flag."
+}

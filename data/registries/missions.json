@@ -1,0 +1,1871 @@
+{
+  "schema_version": 1,
+  "registry": "missions",
+  "description": "Story mission audit seed (brief §23). Every record is unresearched or unauthored; no mission is implemented.",
+  "records": [
+    {
+      "id": "story.opening_and_introductions.prologue",
+      "name": "Prologue",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Prologue"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Opening and introductions",
+      "sequence_hint": 1,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.opening_and_introductions.franklin_and_lamar",
+      "name": "Franklin and Lamar",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Franklin and Lamar"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Opening and introductions",
+      "sequence_hint": 2,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.opening_and_introductions.repossession",
+      "name": "Repossession",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Repossession"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Opening and introductions",
+      "sequence_hint": 3,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.opening_and_introductions.complications",
+      "name": "Complications",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Complications"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Opening and introductions",
+      "sequence_hint": 4,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.opening_and_introductions.chop",
+      "name": "Chop",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Chop"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Opening and introductions",
+      "sequence_hint": 5,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.opening_and_introductions.father_son",
+      "name": "Father/Son",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Father/Son"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Opening and introductions",
+      "sequence_hint": 6,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.opening_and_introductions.marriage_counseling",
+      "name": "Marriage Counseling",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Marriage Counseling"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Opening and introductions",
+      "sequence_hint": 7,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.opening_and_introductions.daddys_little_girl",
+      "name": "Daddy's Little Girl",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Daddy's Little Girl"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Opening and introductions",
+      "sequence_hint": 8,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.opening_and_introductions.friend_request",
+      "name": "Friend Request",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Friend Request"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Opening and introductions",
+      "sequence_hint": 9,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.opening_and_introductions.the_long_stretch",
+      "name": "The Long Stretch",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "The Long Stretch"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Opening and introductions",
+      "sequence_hint": 10,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.first_heist.casing_the_jewel_store",
+      "name": "Casing the Jewel Store",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Casing the Jewel Store"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "First heist",
+      "sequence_hint": 11,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.first_heist.carbine_rifles",
+      "name": "Carbine Rifles",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Carbine Rifles"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "First heist",
+      "sequence_hint": 12,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.first_heist.bugstars_equipment",
+      "name": "Bugstars Equipment",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Bugstars Equipment"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "First heist",
+      "sequence_hint": 13,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.first_heist.bz_gas_grenades",
+      "name": "BZ Gas Grenades",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "BZ Gas Grenades"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "First heist",
+      "sequence_hint": 14,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.first_heist.the_jewel_store_job",
+      "name": "The Jewel Store Job",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "The Jewel Store Job"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "First heist",
+      "sequence_hint": 15,
+      "kind": "heist",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [
+        "loud",
+        "smart"
+      ],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.rural_protagonist.mr_philips",
+      "name": "Mr. Philips",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Mr. Philips"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Rural protagonist",
+      "sequence_hint": 16,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.rural_protagonist.trevor_philips_industries",
+      "name": "Trevor Philips Industries",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Trevor Philips Industries"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Rural protagonist",
+      "sequence_hint": 17,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.rural_protagonist.nervous_ron",
+      "name": "Nervous Ron",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Nervous Ron"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Rural protagonist",
+      "sequence_hint": 18,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.rural_protagonist.crystal_maze",
+      "name": "Crystal Maze",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Crystal Maze"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Rural protagonist",
+      "sequence_hint": 19,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.rural_protagonist.friends_reunited",
+      "name": "Friends Reunited",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Friends Reunited"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Rural protagonist",
+      "sequence_hint": 20,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.three_character_cooperation.fame_or_shame",
+      "name": "Fame or Shame",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Fame or Shame"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Three-character cooperation",
+      "sequence_hint": 21,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.three_character_cooperation.dead_man_walking",
+      "name": "Dead Man Walking",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Dead Man Walking"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Three-character cooperation",
+      "sequence_hint": 22,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.three_character_cooperation.threes_company",
+      "name": "Three's Company",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Three's Company"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Three-character cooperation",
+      "sequence_hint": 23,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.three_character_cooperation.by_the_book",
+      "name": "By the Book",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "By the Book"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Three-character cooperation",
+      "sequence_hint": 24,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.three_character_cooperation.hood_safari",
+      "name": "Hood Safari",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Hood Safari"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Three-character cooperation",
+      "sequence_hint": 25,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.three_character_cooperation.did_somebody_say_yoga",
+      "name": "Did Somebody Say Yoga?",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Did Somebody Say Yoga?"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Three-character cooperation",
+      "sequence_hint": 26,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.port_operation.scouting_the_port",
+      "name": "Scouting the Port",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Scouting the Port"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Port operation",
+      "sequence_hint": 27,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.port_operation.minisub",
+      "name": "Minisub",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Minisub"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Port operation",
+      "sequence_hint": 28,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.port_operation.cargobob",
+      "name": "Cargobob",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Cargobob"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Port operation",
+      "sequence_hint": 29,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.port_operation.the_merryweather_heist",
+      "name": "The Merryweather Heist",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "The Merryweather Heist"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Port operation",
+      "sequence_hint": 30,
+      "kind": "heist",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [
+        "freighter",
+        "offshore"
+      ],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.ambush_operation.masks",
+      "name": "Masks",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Masks"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Ambush operation",
+      "sequence_hint": 31,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.ambush_operation.boiler_suits",
+      "name": "Boiler Suits",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Boiler Suits"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Ambush operation",
+      "sequence_hint": 32,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.ambush_operation.trash_truck",
+      "name": "Trash Truck",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Trash Truck"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Ambush operation",
+      "sequence_hint": 33,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.ambush_operation.tow_truck",
+      "name": "Tow Truck",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Tow Truck"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Ambush operation",
+      "sequence_hint": 34,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.ambush_operation.getaway_vehicle_requirements",
+      "name": "Getaway Vehicle requirements",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Getaway Vehicle requirements"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Ambush operation",
+      "sequence_hint": 35,
+      "kind": "prep_requirement",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.ambush_operation.blitz_play",
+      "name": "Blitz Play",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Blitz Play"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Ambush operation",
+      "sequence_hint": 36,
+      "kind": "heist",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [
+        "fixed_ambush"
+      ],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.vehicles_and_film_work.i_fought_the_law",
+      "name": "I Fought the Law…",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "I Fought the Law…"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Vehicles and film work",
+      "sequence_hint": 37,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.vehicles_and_film_work.eye_in_the_sky",
+      "name": "Eye in the Sky",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Eye in the Sky"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Vehicles and film work",
+      "sequence_hint": 38,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.vehicles_and_film_work.mr_richards",
+      "name": "Mr. Richards",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Mr. Richards"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Vehicles and film work",
+      "sequence_hint": 39,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.vehicles_and_film_work.caida_libre",
+      "name": "Caida Libre",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Caida Libre"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Vehicles and film work",
+      "sequence_hint": 40,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.vehicles_and_film_work.deep_inside",
+      "name": "Deep Inside",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Deep Inside"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Vehicles and film work",
+      "sequence_hint": 41,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.vehicles_and_film_work.minor_turbulence",
+      "name": "Minor Turbulence",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Minor Turbulence"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Vehicles and film work",
+      "sequence_hint": 42,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.rural_bank_operation.paleto_score_setup",
+      "name": "Paleto Score Setup",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Paleto Score Setup"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Rural bank operation",
+      "sequence_hint": 43,
+      "kind": "prep",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.rural_bank_operation.military_hardware",
+      "name": "Military Hardware",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Military Hardware"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Rural bank operation",
+      "sequence_hint": 44,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.rural_bank_operation.predator",
+      "name": "Predator",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Predator"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Rural bank operation",
+      "sequence_hint": 45,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.rural_bank_operation.the_paleto_score",
+      "name": "The Paleto Score",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "The Paleto Score"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Rural bank operation",
+      "sequence_hint": 46,
+      "kind": "heist",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [
+        "rural_bank"
+      ],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.rural_bank_operation.derailed",
+      "name": "Derailed",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Derailed"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Rural bank operation",
+      "sequence_hint": 47,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.rural_bank_operation.monkey_business",
+      "name": "Monkey Business",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Monkey Business"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Rural bank operation",
+      "sequence_hint": 48,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.character_conflicts.hang_ten",
+      "name": "Hang Ten",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Hang Ten"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Character conflicts",
+      "sequence_hint": 49,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.character_conflicts.surveying_the_score",
+      "name": "Surveying the Score",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Surveying the Score"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Character conflicts",
+      "sequence_hint": 50,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.character_conflicts.bury_the_hatchet",
+      "name": "Bury the Hatchet",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Bury the Hatchet"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Character conflicts",
+      "sequence_hint": 51,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.character_conflicts.pack_man",
+      "name": "Pack Man",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Pack Man"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Character conflicts",
+      "sequence_hint": 52,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.character_conflicts.fresh_meat",
+      "name": "Fresh Meat",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Fresh Meat"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Character conflicts",
+      "sequence_hint": 53,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.character_conflicts.the_ballad_of_rocco",
+      "name": "The Ballad of Rocco",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "The Ballad of Rocco"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Character conflicts",
+      "sequence_hint": 54,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.character_conflicts.cleaning_out_the_bureau",
+      "name": "Cleaning Out the Bureau",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Cleaning Out the Bureau"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Character conflicts",
+      "sequence_hint": 55,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.character_conflicts.reuniting_the_family",
+      "name": "Reuniting the Family",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Reuniting the Family"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Character conflicts",
+      "sequence_hint": 56,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.bureau_operation.architects_plans",
+      "name": "Architect's Plans",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Architect's Plans"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Bureau operation",
+      "sequence_hint": 57,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.bureau_operation.fire_truck_and_getaway_requirements",
+      "name": "Fire Truck and getaway requirements",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Fire Truck and getaway requirements"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Bureau operation",
+      "sequence_hint": 58,
+      "kind": "prep_requirement",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.bureau_operation.the_bureau_raid",
+      "name": "The Bureau Raid",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "The Bureau Raid"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Bureau operation",
+      "sequence_hint": 59,
+      "kind": "heist",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [
+        "fire_crew",
+        "roof_entry"
+      ],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.bureau_operation.the_wrap_up",
+      "name": "The Wrap Up",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "The Wrap Up"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Bureau operation",
+      "sequence_hint": 60,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.final_preparation.lamar_down",
+      "name": "Lamar Down",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Lamar Down"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Final preparation",
+      "sequence_hint": 61,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.final_preparation.legal_trouble",
+      "name": "Legal Trouble",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Legal Trouble"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Final preparation",
+      "sequence_hint": 62,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.final_preparation.meltdown",
+      "name": "Meltdown",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Meltdown"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Final preparation",
+      "sequence_hint": 63,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.final_preparation.planning_the_big_score",
+      "name": "Planning the Big Score",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Planning the Big Score"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Final preparation",
+      "sequence_hint": 64,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.final_preparation.stingers",
+      "name": "Stingers",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Stingers"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Final preparation",
+      "sequence_hint": 65,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.final_preparation.gauntlet",
+      "name": "Gauntlet",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Gauntlet"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Final preparation",
+      "sequence_hint": 66,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.final_preparation.driller",
+      "name": "Driller",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Driller"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Final preparation",
+      "sequence_hint": 67,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.final_preparation.sidetracked",
+      "name": "Sidetracked",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Sidetracked"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Final preparation",
+      "sequence_hint": 68,
+      "kind": "mission",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.final_preparation.the_big_score",
+      "name": "The Big Score",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "The Big Score"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Final preparation",
+      "sequence_hint": 69,
+      "kind": "heist",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [
+        "subtle",
+        "obvious"
+      ],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.ending_alternatives.something_sensible",
+      "name": "Something Sensible",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Something Sensible"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Ending alternatives",
+      "sequence_hint": 70,
+      "kind": "ending_branch",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.ending_alternatives.the_times_come",
+      "name": "The Time's Come",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "The Time's Come"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Ending alternatives",
+      "sequence_hint": 71,
+      "kind": "ending_branch",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.ending_alternatives.the_third_way",
+      "name": "The Third Way",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "The Third Way"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Ending alternatives",
+      "sequence_hint": 72,
+      "kind": "ending_branch",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.assassination_chain.the_hotel_assassination",
+      "name": "The Hotel Assassination",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "The Hotel Assassination"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Assassination chain",
+      "sequence_hint": 73,
+      "kind": "assassination",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.assassination_chain.the_multi_target_assassination",
+      "name": "The Multi Target Assassination",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "The Multi Target Assassination"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Assassination chain",
+      "sequence_hint": 74,
+      "kind": "assassination",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.assassination_chain.the_vice_assassination",
+      "name": "The Vice Assassination",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "The Vice Assassination"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Assassination chain",
+      "sequence_hint": 75,
+      "kind": "assassination",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.assassination_chain.the_bus_assassination",
+      "name": "The Bus Assassination",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "The Bus Assassination"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Assassination chain",
+      "sequence_hint": 76,
+      "kind": "assassination",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    },
+    {
+      "id": "story.assassination_chain.the_construction_assassination",
+      "name": "The Construction Assassination",
+      "status": "unresearched",
+      "source": "brief §23 audit seed",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "The Construction Assassination"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "segment": "Assassination chain",
+      "sequence_hint": 77,
+      "kind": "assassination",
+      "characters_required": "unknown",
+      "start_character": "unknown",
+      "approaches": [],
+      "checkpoint_plan": "not authored",
+      "test_walkthrough": "not written",
+      "original_title": null,
+      "notes": "Audit seed. Exact order, branch dependencies, and display names are unreconciled."
+    }
+  ]
+}

@@ -1,0 +1,391 @@
+{
+  "schema_version": 1,
+  "registry": "vehicles",
+  "description": "Vehicle records. Only Kestrel GT is implemented (original). Other rows are class placeholders.",
+  "records": [
+    {
+      "id": "veh.kestrel_gt",
+      "name": "Kestrel GT",
+      "status": "tested",
+      "source": "saltline original design; numbers provisional, unmeasured",
+      "confidence": "provisional",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [
+        "T-VEH-001",
+        "T-VEH-002",
+        "T-VEH-003"
+      ],
+      "vehicle_class": "sports_coupe",
+      "drivetrain": "rwd",
+      "handling_profile": "hp.sports_rwd_provisional",
+      "notes": "Original stand-in vehicle for Milestone A. Not a reference model."
+    },
+    {
+      "id": "class.compact",
+      "name": "Compact (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.sedan",
+      "name": "Sedan (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.coupe",
+      "name": "Coupe (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.sports",
+      "name": "Sports (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.supercar",
+      "name": "Supercar (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.muscle",
+      "name": "Muscle (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.suv",
+      "name": "Suv (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.offroad",
+      "name": "Offroad (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.van",
+      "name": "Van (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.commercial_truck",
+      "name": "Commercial Truck (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.service",
+      "name": "Service (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.motorcycle",
+      "name": "Motorcycle (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.bicycle",
+      "name": "Bicycle (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.emergency",
+      "name": "Emergency (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.military",
+      "name": "Military (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.boat",
+      "name": "Boat (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.personal_watercraft",
+      "name": "Personal Watercraft (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.helicopter",
+      "name": "Helicopter (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.propeller_aircraft",
+      "name": "Propeller Aircraft (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.jet",
+      "name": "Jet (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.submarine",
+      "name": "Submarine (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.tank",
+      "name": "Tank (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.armored_car",
+      "name": "Armored Car (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.weaponized_vehicle",
+      "name": "Weaponized Vehicle (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.transformable_special",
+      "name": "Transformable Special (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    },
+    {
+      "id": "class.rc_vehicle",
+      "name": "Rc Vehicle (class)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "record_type": "vehicle_class",
+      "notes": "Vehicle class placeholder for the catalog audit (brief §16). No models or handling exist yet."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "registry": "handling_profiles",
+  "description": "Car handling profiles consumed by src/sim/vehicle.ts. Every number is PROVISIONAL (designer choice) unless confidence says otherwise. None is measured against the reference.",
+  "records": [
+    {
+      "id": "hp.sports_rwd_provisional",
+      "name": "Sports coupe, rear-wheel drive (provisional)",
+      "status": "tested",
+      "source": "saltline original design; no reference measurement",
+      "confidence": "provisional",
+      "reference_aliases": [],
+      "edition_gate": [
+        "saltline_browser"
+      ],
+      "test_ids": [
+        "T-VEH-001",
+        "T-VEH-002",
+        "T-VEH-003"
+      ],
+      "units": "SI: kg, m, s, N, rad. Speeds in m/s unless stated.",
+      "mass_kg": 1450,
+      "center_of_mass_height_m": 0.45,
+      "wheelbase_m": 2.6,
+      "track_width_m": 1.6,
+      "max_steer_deg": 32,
+      "steer_speed_falloff_mps": 35,
+      "engine_peak_force_n": 9000,
+      "engine_max_speed_mps": 70,
+      "drag_coefficient_cdA": 0.72,
+      "rolling_resistance_n": 150,
+      "brake_decel_mps2": 9.5,
+      "lateral_grip_mu": 1.05,
+      "wet_grip_factor": 0.7,
+      "drive_layout": "rwd",
+      "notes": "Tuned for arcade-readable behaviour, not simulation realism. Top speed and acceleration are checked against provisional bands in tests, not against the reference.",
+      "handbrake_grip_factor": 0.35,
+      "handbrake_decel_mps2": 6,
+      "length_m": 4.4,
+      "width_m": 1.9
+    }
+  ]
+}

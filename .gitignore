@@ -1,0 +1,8 @@
+node_modules/
+dist/
+coverage/
+*.log
+.DS_Store
+# Generated artifacts are reproducible; keep them out of Git (see README.md, "Generated files").
+/test-results/
+/screenshots/

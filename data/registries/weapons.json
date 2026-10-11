@@ -1,0 +1,855 @@
+{
+  "schema_version": 1,
+  "registry": "weapons",
+  "description": "Weapon families and audit anchors (brief §14). Numbers are unresearched; no damage/recoil values are asserted.",
+  "records": [
+    {
+      "id": "wpn.fists",
+      "name": "Fists",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Fists"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "melee",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.knife",
+      "name": "Knife",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Knife"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "melee",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.nightstick",
+      "name": "Nightstick",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Nightstick"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "melee",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.hammer",
+      "name": "Hammer",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Hammer"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "melee",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.baseball_bat",
+      "name": "Baseball Bat",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Baseball Bat"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "melee",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.crowbar",
+      "name": "Crowbar",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Crowbar"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "melee",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.golf_club",
+      "name": "Golf Club",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Golf Club"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "melee",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.bottle",
+      "name": "Bottle",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Bottle"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "melee",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.dagger",
+      "name": "Dagger",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Dagger"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "melee",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.knuckle_duster",
+      "name": "Knuckle Duster",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Knuckle Duster"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "melee",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.pistol",
+      "name": "Pistol",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Pistol"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "handgun",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.combat_pistol",
+      "name": "Combat Pistol",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Combat Pistol"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "handgun",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.ap_pistol",
+      "name": "AP Pistol",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "AP Pistol"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "handgun",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.pistol_50",
+      "name": "Pistol .50",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Pistol .50"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "handgun",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.sns_pistol",
+      "name": "SNS Pistol",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "SNS Pistol"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "handgun",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.heavy_pistol",
+      "name": "Heavy Pistol",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Heavy Pistol"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "handgun",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.vintage_pistol",
+      "name": "Vintage Pistol",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Vintage Pistol"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "handgun",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.flare_gun",
+      "name": "Flare Gun",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Flare Gun"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "special",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.micro_smg",
+      "name": "Micro SMG",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Micro SMG"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "smg",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.smg",
+      "name": "SMG",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "SMG"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "smg",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.assault_smg",
+      "name": "Assault SMG",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Assault SMG"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "smg",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.combat_pdw",
+      "name": "Combat PDW",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Combat PDW"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "smg",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.mg",
+      "name": "MG",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "MG"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "machine_gun",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.combat_mg",
+      "name": "Combat MG",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Combat MG"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "machine_gun",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.gusenberg_sweeper",
+      "name": "Gusenberg Sweeper",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Gusenberg Sweeper"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "machine_gun",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.assault_rifle",
+      "name": "Assault Rifle",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Assault Rifle"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "rifle",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.carbine_rifle",
+      "name": "Carbine Rifle",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Carbine Rifle"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "rifle",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.advanced_rifle",
+      "name": "Advanced Rifle",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Advanced Rifle"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "rifle",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.special_carbine",
+      "name": "Special Carbine",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Special Carbine"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "rifle",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.bullpup_rifle",
+      "name": "Bullpup Rifle",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Bullpup Rifle"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "rifle",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.pump_shotgun",
+      "name": "Pump Shotgun",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Pump Shotgun"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "shotgun",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.sawed_off_shotgun",
+      "name": "Sawed-Off Shotgun",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Sawed-Off Shotgun"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "shotgun",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.assault_shotgun",
+      "name": "Assault Shotgun",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Assault Shotgun"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "shotgun",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.bullpup_shotgun",
+      "name": "Bullpup Shotgun",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Bullpup Shotgun"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "shotgun",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.heavy_shotgun",
+      "name": "Heavy Shotgun",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Heavy Shotgun"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "shotgun",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.double_barrel_shotgun",
+      "name": "Double Barrel Shotgun",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Double Barrel Shotgun"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "shotgun",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.automatic_shotgun",
+      "name": "Automatic Shotgun",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Automatic Shotgun"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "shotgun",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.sniper_rifle",
+      "name": "Sniper Rifle",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Sniper Rifle"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "sniper",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.heavy_sniper",
+      "name": "Heavy Sniper",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Heavy Sniper"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "sniper",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.marksman_rifle",
+      "name": "Marksman Rifle",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Marksman Rifle"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "sniper",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.rpg",
+      "name": "RPG",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "RPG"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "heavy",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.grenade_launcher",
+      "name": "Grenade Launcher",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Grenade Launcher"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "heavy",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.minigun",
+      "name": "Minigun",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Minigun"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "heavy",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.homing_launcher",
+      "name": "Homing Launcher",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Homing Launcher"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "heavy",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.railgun",
+      "name": "Railgun",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Railgun"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "heavy",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.grenade",
+      "name": "Grenade",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Grenade"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "thrown",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.sticky_bomb",
+      "name": "Sticky Bomb",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Sticky Bomb"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "thrown",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.molotov",
+      "name": "Molotov",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Molotov"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "thrown",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.tear_gas",
+      "name": "Tear Gas",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Tear Gas"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "thrown",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.proximity_mine",
+      "name": "Proximity Mine",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Proximity Mine"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "thrown",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.jerry_can",
+      "name": "Jerry Can",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Jerry Can"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "special",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.fire_extinguisher",
+      "name": "Fire Extinguisher",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Fire Extinguisher"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "special",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    },
+    {
+      "id": "wpn.stun_gun",
+      "name": "Stun Gun",
+      "status": "unresearched",
+      "source": "brief §14 audit anchors (reference names used only as internal identifiers)",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Stun Gun"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "special",
+      "notes": "Audit anchor. Original name TBD; numeric parameters unresearched. Not available in every story edition."
+    }
+  ]
+}

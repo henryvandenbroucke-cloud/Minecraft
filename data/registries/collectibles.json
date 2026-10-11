@@ -1,0 +1,172 @@
+{
+  "schema_version": 1,
+  "registry": "collectibles",
+  "description": "Collectible and challenge sets (brief §24). Completion weighting unknown until verified.",
+  "records": [
+    {
+      "id": "col.spaceship_parts",
+      "name": "Spaceship parts",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "set",
+      "counts_toward_100pct": "unknown",
+      "notes": "Brief §24: do not assume every collectible counts toward completion. Verify per edition."
+    },
+    {
+      "id": "col.letter_scraps",
+      "name": "Letter scraps",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "set",
+      "counts_toward_100pct": "unknown",
+      "notes": "Brief §24: do not assume every collectible counts toward completion. Verify per edition."
+    },
+    {
+      "id": "col.submarine_parts",
+      "name": "Submarine parts",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "set",
+      "counts_toward_100pct": "unknown",
+      "notes": "Brief §24: do not assume every collectible counts toward completion. Verify per edition."
+    },
+    {
+      "id": "col.nuclear_waste",
+      "name": "Nuclear waste",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "set",
+      "counts_toward_100pct": "unknown",
+      "notes": "Brief §24: do not assume every collectible counts toward completion. Verify per edition."
+    },
+    {
+      "id": "col.hidden_caches",
+      "name": "Hidden caches",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "set",
+      "counts_toward_100pct": "unknown",
+      "notes": "Brief §24: do not assume every collectible counts toward completion. Verify per edition."
+    },
+    {
+      "id": "col.stunt_jumps",
+      "name": "Stunt jumps",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "challenge",
+      "counts_toward_100pct": "unknown",
+      "notes": "Brief §24: do not assume every collectible counts toward completion. Verify per edition."
+    },
+    {
+      "id": "col.under_the_bridge_flights",
+      "name": "Under-the-bridge flights",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "challenge",
+      "counts_toward_100pct": "unknown",
+      "notes": "Brief §24: do not assume every collectible counts toward completion. Verify per edition."
+    },
+    {
+      "id": "col.knife_flights",
+      "name": "Knife flights",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "challenge",
+      "counts_toward_100pct": "unknown",
+      "notes": "Brief §24: do not assume every collectible counts toward completion. Verify per edition."
+    },
+    {
+      "id": "col.edition_specific_photography_or_mosaics",
+      "name": "Edition-specific photography or mosaics",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "set",
+      "counts_toward_100pct": "unknown",
+      "notes": "Brief §24: do not assume every collectible counts toward completion. Verify per edition."
+    },
+    {
+      "id": "col.plants",
+      "name": "Plants",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "set",
+      "counts_toward_100pct": "unknown",
+      "notes": "Brief §24: do not assume every collectible counts toward completion. Verify per edition."
+    },
+    {
+      "id": "col.mysteries",
+      "name": "Mysteries",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "set",
+      "counts_toward_100pct": "unknown",
+      "notes": "Brief §24: do not assume every collectible counts toward completion. Verify per edition."
+    }
+  ]
+}

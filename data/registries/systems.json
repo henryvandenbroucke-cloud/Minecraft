@@ -1,0 +1,264 @@
+{
+  "schema_version": 1,
+  "registry": "systems",
+  "description": "System families from brief §3-§45 with honest status. 'implemented' requires test ids that exist in tests/. 'blocked' records state the blocker.",
+  "records": [
+    {
+      "id": "sys.input",
+      "name": "Input, rebinding, and settings persistence",
+      "status": "tested",
+      "source": "brief §6; src/sim/input-actions.ts, src/game/input.ts",
+      "confidence": "provisional",
+      "test_ids": [
+        "T-INP-001",
+        "T-SET-001"
+      ],
+      "edition_gate": [
+        "saltline_browser"
+      ],
+      "notes": "Keyboard/mouse and basic gamepad. Controller rebinding, hold/tap variants, and aim assist are gaps."
+    },
+    {
+      "id": "sys.clock",
+      "name": "Clock, fixed step, and local time scale",
+      "status": "tested",
+      "source": "brief §4; src/sim/clock.ts",
+      "confidence": "provisional",
+      "test_ids": [
+        "T-CLK-001"
+      ],
+      "edition_gate": [
+        "saltline_browser"
+      ],
+      "notes": "Day length is provisional (48 real minutes). Slow motion is a timeline only; no ability uses it yet."
+    },
+    {
+      "id": "sys.player_locomotion",
+      "name": "On-foot locomotion (walk, jog, sprint, jump, fall)",
+      "status": "tested",
+      "source": "brief §9; src/sim/player.ts",
+      "confidence": "provisional",
+      "test_ids": [
+        "T-PLY-001"
+      ],
+      "edition_gate": [
+        "saltline_browser"
+      ],
+      "notes": "No vaults, ladders, stairs, swimming, ragdoll, or parachute yet."
+    },
+    {
+      "id": "sys.collision",
+      "name": "Static box collision and raycasts",
+      "status": "tested",
+      "source": "brief §8; src/sim/collision.ts",
+      "confidence": "provisional",
+      "test_ids": [
+        "T-COL-001"
+      ],
+      "edition_gate": [
+        "saltline_browser"
+      ],
+      "notes": "Boxes only. No heightfield terrain, no step-up, no roof walking."
+    },
+    {
+      "id": "sys.camera",
+      "name": "Third- and first-person cameras with wall clipping",
+      "status": "tested",
+      "source": "brief §10; src/game/camera-rig.ts",
+      "confidence": "provisional",
+      "test_ids": [
+        "T-CAM-001"
+      ],
+      "edition_gate": [
+        "saltline_browser"
+      ],
+      "notes": "No shoulder aim, scoped aim, cinematic or activity cameras, lock-on, recentering, or FP vehicle dashboards/mirrors."
+    },
+    {
+      "id": "sys.world_streaming",
+      "name": "Cell streaming with look-ahead and collision coverage",
+      "status": "tested",
+      "source": "brief §8; src/sim/world/streaming.ts, collider-index.ts",
+      "confidence": "provisional",
+      "test_ids": [
+        "T-WRL-001"
+      ],
+      "edition_gate": [
+        "saltline_browser"
+      ],
+      "notes": "Synchronous data generation; mesh builds are throttled. No async worker loading yet."
+    },
+    {
+      "id": "sys.procedural_district",
+      "name": "Procedural test district (original geometry)",
+      "status": "tested",
+      "source": "brief §7; src/sim/world/district.ts",
+      "confidence": "provisional",
+      "test_ids": [
+        "T-WRL-002"
+      ],
+      "edition_gate": [
+        "saltline_browser"
+      ],
+      "notes": "Grid of blocks and roads, boxes for buildings. No lanes, signals, sidewalks as geometry, water, or interiors."
+    },
+    {
+      "id": "sys.vehicles_car",
+      "name": "Car driving model (one sports car)",
+      "status": "tested",
+      "source": "brief §16; src/sim/vehicle.ts",
+      "confidence": "provisional",
+      "test_ids": [
+        "T-VEH-001",
+        "T-VEH-002",
+        "T-VEH-003"
+      ],
+      "edition_gate": [
+        "saltline_browser"
+      ],
+      "notes": "Provisional numbers. Not calibrated against a reference. No suspension, damage deformation, tyres, or other classes."
+    },
+    {
+      "id": "sys.vehicle_ownership",
+      "name": "Vehicle entry, exit, and owner field",
+      "status": "tested",
+      "source": "brief §17; src/sim/game.ts",
+      "confidence": "provisional",
+      "test_ids": [
+        "T-SIM-001"
+      ],
+      "edition_gate": [
+        "saltline_browser"
+      ],
+      "notes": "Single personal vehicle. No storage, impound, insurance, duplication guards, or carjacking."
+    },
+    {
+      "id": "sys.save_persistence",
+      "name": "Versioned save slots, migration, and recovery",
+      "status": "tested",
+      "source": "brief §28; src/sim/save.ts",
+      "confidence": "provisional",
+      "test_ids": [
+        "T-SAV-001",
+        "T-SIM-001"
+      ],
+      "edition_gate": [
+        "saltline_browser"
+      ],
+      "notes": "One slot used by quick save. Autosave, multiple slots in UI, and cloud save are gaps."
+    },
+    {
+      "id": "sys.story_characters",
+      "name": "Three story protagonists (data and per-character save state)",
+      "status": "tested",
+      "source": "brief §11; src/sim/content.ts, save.ts",
+      "confidence": "provisional",
+      "test_ids": [
+        "T-CHR-001"
+      ],
+      "edition_gate": [
+        "saltline_browser"
+      ],
+      "notes": "Only Eli Mercer is playable. Switching, AI for inactive characters, and abilities are not implemented."
+    },
+    {
+      "id": "sys.hud",
+      "name": "HUD (clock, health, stamina, speed, prompts, objective)",
+      "status": "researched",
+      "source": "brief §27; src/game/hud.ts",
+      "confidence": "unknown",
+      "edition_gate": [
+        "saltline_browser"
+      ],
+      "notes": "Implemented in the browser build but not covered by automated tests; visual check blocked unless a headless browser is installed (see docs/TEST_REPORT.md)."
+    },
+    {
+      "id": "sys.police_wanted",
+      "name": "Wanted levels, witnesses, and pursuit",
+      "status": "blocked",
+      "source": "brief §19-20",
+      "confidence": "unknown",
+      "blocker": "Milestone B. Needs crime events, perception, and traffic/pedestrian AI, none of which exist yet."
+    },
+    {
+      "id": "sys.traffic_pedestrians",
+      "name": "Traffic and pedestrian life",
+      "status": "blocked",
+      "source": "brief §18",
+      "confidence": "unknown",
+      "blocker": "Milestone B. Needs lane graph data and an AI population budget."
+    },
+    {
+      "id": "sys.combat_weapons",
+      "name": "Weapons, damage, and cover",
+      "status": "blocked",
+      "source": "brief §14-15",
+      "confidence": "unknown",
+      "blocker": "Milestone B. Weapon numbers are unresearched; no reference measurement is available."
+    },
+    {
+      "id": "sys.story_missions",
+      "name": "Mission runtime (objective graph, checkpoints)",
+      "status": "blocked",
+      "source": "brief §21",
+      "confidence": "unknown",
+      "blocker": "Milestone C. Needs the objective graph runtime; the catalog is only a seed."
+    },
+    {
+      "id": "sys.heists",
+      "name": "Story and Online heists",
+      "status": "blocked",
+      "source": "brief §22, §40",
+      "confidence": "unknown",
+      "blocker": "Milestones C and F. Depends on the mission runtime, multiplayer authority, and the economy ledger."
+    },
+    {
+      "id": "sys.economy_ledger",
+      "name": "Typed transaction ledger (Online)",
+      "status": "blocked",
+      "source": "brief §32",
+      "confidence": "unknown",
+      "blocker": "Milestone E. Requires the authoritative server and atomic idempotent transactions."
+    },
+    {
+      "id": "sys.multiplayer",
+      "name": "Online sessions and authority",
+      "status": "blocked",
+      "source": "brief §30, §43",
+      "confidence": "unknown",
+      "blocker": "Milestone E. No server exists in this build; the feature gate is closed."
+    },
+    {
+      "id": "sys.audio",
+      "name": "Audio (engines, footsteps, music, dialogue)",
+      "status": "blocked",
+      "source": "brief §45",
+      "confidence": "unknown",
+      "blocker": "No audio is implemented. Original audio assets are not yet produced."
+    },
+    {
+      "id": "sys.phone_map_radio",
+      "name": "Phone, map, and radio",
+      "status": "blocked",
+      "source": "brief §27",
+      "confidence": "unknown",
+      "blocker": "Milestone B. No content or UI exists yet."
+    },
+    {
+      "id": "sys.water_and_weather",
+      "name": "Water, swimming, weather, day-night visuals",
+      "status": "blocked",
+      "source": "brief §8-9",
+      "confidence": "unknown",
+      "blocker": "Milestone B. Only a simple day-night sky tint exists; no weather or water."
+    },
+    {
+      "id": "sys.content_tools",
+      "name": "Creator, mission editor, and content tools",
+      "status": "blocked",
+      "source": "brief §44",
+      "confidence": "unknown",
+      "blocker": "Milestone G. Editors are not built; registries are JSON and validated by tools/validate-registries.ts."
+    }
+  ]
+}

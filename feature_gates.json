@@ -1,0 +1,88 @@
+{
+  "$schema_note": "Edition/version gates. A feature is available only if its gate lists the active edition. 'unverified' means the feature is not yet confirmed for that edition and must not be enabled.",
+  "editions": {
+    "legacy_ps3_x360": {
+      "label": "PS3 / Xbox 360 original releases",
+      "status": "reference-only; not targeted"
+    },
+    "legacy_ps4_xb1_pc": {
+      "label": "PS4 / Xbox One / PC Legacy",
+      "status": "reference-only; not targeted"
+    },
+    "enhanced_ps5_xsx_pc": {
+      "label": "Enhanced PC / PS5 / Xbox Series X|S",
+      "status": "primary reference (PC Enhanced)"
+    },
+    "saltline_browser": {
+      "label": "Saltline browser build (this project)",
+      "status": "active"
+    }
+  },
+  "gates": [
+    {
+      "feature": "hsw_upgrades",
+      "enabled_in": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "note": "Notes list HSW Upgrade as PS5, Xbox Series X|S and GTAV Enhanced only (1.73 notes: Grotti Veleno GT)."
+    },
+    {
+      "feature": "kortz_center_finale",
+      "enabled_in": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "note": "1.73 notes state the Finale is only available on PS5, Xbox Series X|S and PC Enhanced (quoted from a search-result excerpt of the Rockstar article)."
+    },
+    {
+      "feature": "kortz_center_prep_and_heist",
+      "enabled_in": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "note": "1.73 Art Studio purchase via Prix Luxury Real Estate; 1-4 players. Awards and Career Progress challenges listed for PS5, XSX|S and Enhanced PC."
+    },
+    {
+      "feature": "career_progress_challenges",
+      "enabled_in": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "note": "Notes list Career Progress challenges on PS5, XSX|S and Enhanced PC for 1.73 content; other editions unverified."
+    },
+    {
+      "feature": "mission_creator_warp_points",
+      "enabled_in": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "note": "1.73 Creator additions listed for PS5, XSX|S and Enhanced."
+    },
+    {
+      "feature": "first_person_vehicle_view",
+      "enabled_in": [
+        "enhanced_ps5_xsx_pc",
+        "saltline_browser"
+      ],
+      "note": "Saltline implements a camera-based first-person vehicle view; no reference parity is claimed."
+    },
+    {
+      "feature": "online_multiplayer",
+      "enabled_in": [],
+      "note": "Not implemented yet (Milestone E). Gate closed for every build."
+    },
+    {
+      "feature": "story_cheats",
+      "enabled_in": [],
+      "note": "Registry planned; no cheat entry is active. Story cheats must never be authorized in Online."
+    },
+    {
+      "feature": "wildlife",
+      "enabled_in": [],
+      "note": "Not implemented."
+    },
+    {
+      "feature": "diagnostics_overlay",
+      "enabled_in": [
+        "saltline_browser"
+      ],
+      "note": "F3 diagnostics overlay (frame/sim timing, resident cells, collision coverage). Available in every build, including production; it is read-only and does not change simulation state."
+    }
+  ]
+}

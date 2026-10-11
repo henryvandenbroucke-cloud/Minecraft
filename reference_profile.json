@@ -1,0 +1,55 @@
+{
+  "$schema_note": "Frozen reference profile. Fields marked 'unknown' were NOT verified against an installed reference build; do not treat them as measured.",
+  "profile_id": "REF-ENH-PC-TU173",
+  "profile_status": "researched",
+  "research_date": "2026-10-11",
+  "reference_game": "Grand Theft Auto V (with GTA Online)",
+  "edition": "Grand Theft Auto V Enhanced",
+  "platform": "PC (Enhanced)",
+  "executable_build": {
+    "value": "unknown",
+    "note": "No reference installation exists in this sandbox. Third-party build strings from download sites were found during research and deliberately NOT adopted; they are unverified."
+  },
+  "title_update": {
+    "online_title_update": "1.73",
+    "released": "2026-07-16",
+    "sources": [
+      "https://gta.wiki/w/Grand_Theft_Auto_V/Title_Update_Notes (latest-versions table: PC Enhanced 1.73, released July 16, 2026)",
+      "https://support.rockstargames.com/articles/4vRqEDvjUs9h7nqRUgc8YO/gtav-title-update-1-73-notes-ps5-ps4-xbox-series-x-or-s-xbox-one-pc-enhanced-legacy (last updated 2026-10-01)"
+    ],
+    "post_1_73_dated_updates_known": [
+      "2026-07-23 Pegassi Ignus Pursuit (Emergency) added",
+      "2026-07-30 Kortz Center Heist Finale fixes (PS5, XSX|S, PC Enhanced only per notes)",
+      "2026-08-13 Gallivanter Warden (SUV) added",
+      "2026-08-27 Annis Elegy Retro Custom, Invetero Coquette, Vapid Dominator GTT drift-tuning; three Known Unknown and two Unknown Unknown Random Transform Races",
+      "2026-09-10 Pegassi Horus (Super) added",
+      "2026-09-15 PC (Enhanced) general fixes",
+      "2026-10-01 Halloween event 2026-10-01 to 2026-11-04 (returning content; Ghosts Exposed updated)"
+    ]
+  },
+  "research_date_note": "The brief date does not establish an executable version. The title-update number above is the researched online content reference; the installed build must be verified before any comparison run.",
+  "controller_scheme": "unknown",
+  "aim_mode": "unknown",
+  "frame_rate_target": "unknown",
+  "display_mode": "unknown",
+  "installed_content": {
+    "status": "unknown",
+    "note": "No installation inspected. Entitlements (GTA+, Shark Cards, subscriptions) are out of scope and must be modelled as local test flags only."
+  },
+  "online_tunable_snapshot": {
+    "snapshot_id": "tunables-tu173-2026-10-11",
+    "status": "structure-only",
+    "path": "data/economy/tunables-tu1.73.json",
+    "note": "Only dated qualitative changes are recorded. No payout, price, or probability values are asserted."
+  },
+  "story_vs_online": {
+    "story": "Three authored protagonists; individual finances; story slow motion must not pause multiplayer.",
+    "online": "Custom characters; RP; properties; businesses; matchmaking; shared sessions. Online-only vehicles, weapons, services, and businesses must not leak into story."
+  },
+  "saltline_target_profile": {
+    "name": "Saltline (original recreation target)",
+    "platform_target": "Desktop browser (WebGL 2), Chromium-class",
+    "target_frame_rate": "60 fps on a mid-range desktop GPU (goal; not measured — sandbox has no GPU)",
+    "rendering_budget_note": "Milestone A district budget: <= 2,000 static colliders in view, <= 50 draw calls per streamed cell target."
+  }
+}

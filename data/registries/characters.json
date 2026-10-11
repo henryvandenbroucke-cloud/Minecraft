@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "registry": "characters",
+  "description": "Story protagonists (temporary original names, reference colours kept as internal keys) and the Online character slot.",
+  "records": [
+    {
+      "id": "chr.story.eli_mercer",
+      "name": "Eli Mercer",
+      "status": "tested",
+      "source": "saltline original; temporary name",
+      "confidence": "provisional",
+      "reference_aliases": [
+        "Michael (story protagonist, blue)"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [
+        "T-CHR-001"
+      ],
+      "role": "story_protagonist",
+      "color": "blue",
+      "name_status": "temporary",
+      "starting_skills": "unknown",
+      "home": "unknown"
+    },
+    {
+      "id": "chr.story.dez_okafor",
+      "name": "Dez Okafor",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Franklin (story protagonist, green)"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "role": "story_protagonist",
+      "color": "green",
+      "name_status": "temporary",
+      "notes": "Data only; not switchable yet."
+    },
+    {
+      "id": "chr.story.rourke_vance",
+      "name": "Rourke Vance",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [
+        "Trevor (story protagonist, orange)"
+      ],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "role": "story_protagonist",
+      "color": "orange",
+      "name_status": "temporary",
+      "notes": "Data only; not switchable yet."
+    },
+    {
+      "id": "chr.online.custom_slot",
+      "name": "Online custom character (slot)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "role": "online_character",
+      "notes": "Separate mode; must not inherit story abilities (brief §12)."
+    }
+  ]
+}

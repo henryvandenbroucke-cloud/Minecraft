@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "registry": "events",
+  "description": "Dated events and playlist schedules. All disabled by default.",
+  "records": [
+    {
+      "id": "evt.halloween_2026",
+      "name": "Halloween 2026 (reference-dated event)",
+      "status": "researched",
+      "source": "Rockstar TU 1.73 notes, dated 2026-10-01: Halloween October 1 through November 4",
+      "confidence": "published",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "schedule": {
+        "start": "2026-10-01",
+        "end": "2026-11-04"
+      },
+      "default_active": false,
+      "notes": "Must be activated by explicit schedule or dev control. Not a permanent default (brief §42)."
+    },
+    {
+      "id": "evt.business_rivalries_2026",
+      "name": "Business Rivalries event (reference-dated)",
+      "status": "researched",
+      "source": "Steam official event listing summarised by a third-party tracker (gamedropdaily, 2026-09-26). Verify on Rockstar notes.",
+      "confidence": "published",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "schedule": {
+        "start": "unknown",
+        "end": "unknown"
+      },
+      "default_active": false
+    }
+  ]
+}

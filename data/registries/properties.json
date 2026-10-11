@@ -1,0 +1,483 @@
+{
+  "schema_version": 1,
+  "registry": "properties",
+  "description": "Story and Online property registry (brief §26, §33–39). Nothing is purchasable yet.",
+  "records": [
+    {
+      "id": "prop.apartment",
+      "name": "Apartment",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "story",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.garage",
+      "name": "Garage",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "story",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.safehouse",
+      "name": "Safehouse",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "story",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.income_business_story",
+      "name": "Income business (story)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "story",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.apartments_online",
+      "name": "Apartments (Online)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.high_end_heist_apartment",
+      "name": "High-end heist apartment",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.garage_online",
+      "name": "Garage (Online)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.executive_office",
+      "name": "Executive office",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.office_garage",
+      "name": "Office garage",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.special_cargo_warehouse",
+      "name": "Special cargo warehouse",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.vehicle_warehouse",
+      "name": "Vehicle warehouse",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.mc_clubhouse",
+      "name": "MC clubhouse",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.bunker",
+      "name": "Bunker",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.aircraft_hangar",
+      "name": "Aircraft hangar",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.facility_doomsday",
+      "name": "Facility (Doomsday)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.nightclub",
+      "name": "Nightclub",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.arcade",
+      "name": "Arcade",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.casino_penthouse",
+      "name": "Casino penthouse",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.arena_workshop",
+      "name": "Arena workshop",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.auto_shop",
+      "name": "Auto Shop",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.agency",
+      "name": "Agency",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.acid_lab_freakshop_facility",
+      "name": "Acid Lab / Freakshop facility",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.salvage_yard",
+      "name": "Salvage Yard",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.bail_office",
+      "name": "Bail Office",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.garment_factory",
+      "name": "Garment Factory",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.mckenzie_field_hangar",
+      "name": "McKenzie Field Hangar",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.money_front_car_wash",
+      "name": "Money Front (car wash)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.mansion",
+      "name": "Mansion",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.mansion_art_studio",
+      "name": "Mansion Art Studio",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.yacht",
+      "name": "Yacht",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.kosatka_service_sub",
+      "name": "Kosatka (service sub)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.avenger_service_aircraft",
+      "name": "Avenger (service aircraft)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.mobile_operations_center",
+      "name": "Mobile Operations Center",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    },
+    {
+      "id": "prop.terrorbyte",
+      "name": "Terrorbyte",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "online",
+      "notes": "Brief §33–39. Purchase, storage, income, and version gates unresearched."
+    }
+  ]
+}

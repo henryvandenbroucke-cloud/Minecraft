@@ -1,0 +1,579 @@
+{
+  "schema_version": 1,
+  "registry": "activities",
+  "description": "Activities, hobbies, races, odd jobs and side-chain anchors (brief §24–25). None implemented.",
+  "records": [
+    {
+      "id": "act.golf",
+      "name": "Golf",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "sport",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.tennis",
+      "name": "Tennis",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "sport",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.darts",
+      "name": "Darts",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "hobby",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.yoga",
+      "name": "Yoga",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "pastime",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.triathlon",
+      "name": "Triathlon",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "sport",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.shooting_range",
+      "name": "Shooting range",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "hobby",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.flight_school",
+      "name": "Flight school",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "hobby",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.hunting",
+      "name": "Hunting",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "hobby",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.street_race",
+      "name": "Street race",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "race",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.off_road_race",
+      "name": "Off-road race",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "race",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.water_race",
+      "name": "Water race",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "race",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.air_race",
+      "name": "Air race",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "race",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.cycling_race",
+      "name": "Cycling race",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "race",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.parachute_challenge",
+      "name": "Parachute challenge",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "race",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.taxi_fares",
+      "name": "Taxi fares",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "odd_job",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.towing",
+      "name": "Towing",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "odd_job",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.arms_trafficking_work",
+      "name": "Arms trafficking work",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "business",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.property_errands",
+      "name": "Property errands",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "odd_job",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.shop_robbery",
+      "name": "Shop robbery",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "crime",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.cinema_and_entertainment",
+      "name": "Cinema and entertainment",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "pastime",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.friend_outings",
+      "name": "Friend outings",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "pastime",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.pet_interaction",
+      "name": "Pet interaction",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "pastime",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.venue_entertainment_non_explicit_presentation",
+      "name": "Venue entertainment (non-explicit presentation)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "pastime",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "act.arm_wrestling_online_only",
+      "name": "Arm wrestling (Online only)",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [],
+      "test_ids": [],
+      "category": "online_only",
+      "notes": "Activity family from brief §25. Not implemented."
+    },
+    {
+      "id": "side.tonya",
+      "name": "Tonya",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "side_chain",
+      "notes": "Reference chain anchor (brief §24). Create an original character/chain; do not reuse names as-is in delivered content."
+    },
+    {
+      "id": "side.hao",
+      "name": "Hao",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "side_chain",
+      "notes": "Reference chain anchor (brief §24). Create an original character/chain; do not reuse names as-is in delivered content."
+    },
+    {
+      "id": "side.beverly",
+      "name": "Beverly",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "side_chain",
+      "notes": "Reference chain anchor (brief §24). Create an original character/chain; do not reuse names as-is in delivered content."
+    },
+    {
+      "id": "side.barry",
+      "name": "Barry",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "side_chain",
+      "notes": "Reference chain anchor (brief §24). Create an original character/chain; do not reuse names as-is in delivered content."
+    },
+    {
+      "id": "side.mary_ann",
+      "name": "Mary-Ann",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "side_chain",
+      "notes": "Reference chain anchor (brief §24). Create an original character/chain; do not reuse names as-is in delivered content."
+    },
+    {
+      "id": "side.dom",
+      "name": "Dom",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "side_chain",
+      "notes": "Reference chain anchor (brief §24). Create an original character/chain; do not reuse names as-is in delivered content."
+    },
+    {
+      "id": "side.omega",
+      "name": "Omega",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "side_chain",
+      "notes": "Reference chain anchor (brief §24). Create an original character/chain; do not reuse names as-is in delivered content."
+    },
+    {
+      "id": "side.dreyfuss",
+      "name": "Dreyfuss",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "side_chain",
+      "notes": "Reference chain anchor (brief §24). Create an original character/chain; do not reuse names as-is in delivered content."
+    },
+    {
+      "id": "side.epsilon",
+      "name": "Epsilon",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "side_chain",
+      "notes": "Reference chain anchor (brief §24). Create an original character/chain; do not reuse names as-is in delivered content."
+    },
+    {
+      "id": "side.maude",
+      "name": "Maude",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "side_chain",
+      "notes": "Reference chain anchor (brief §24). Create an original character/chain; do not reuse names as-is in delivered content."
+    },
+    {
+      "id": "side.nigel_and_mrs_thornhill",
+      "name": "Nigel and Mrs. Thornhill",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "side_chain",
+      "notes": "Reference chain anchor (brief §24). Create an original character/chain; do not reuse names as-is in delivered content."
+    },
+    {
+      "id": "side.cletus",
+      "name": "Cletus",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "side_chain",
+      "notes": "Reference chain anchor (brief §24). Create an original character/chain; do not reuse names as-is in delivered content."
+    },
+    {
+      "id": "side.josh",
+      "name": "Josh",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "side_chain",
+      "notes": "Reference chain anchor (brief §24). Create an original character/chain; do not reuse names as-is in delivered content."
+    },
+    {
+      "id": "side.abigail",
+      "name": "Abigail",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "side_chain",
+      "notes": "Reference chain anchor (brief §24). Create an original character/chain; do not reuse names as-is in delivered content."
+    },
+    {
+      "id": "side.joe_and_josef",
+      "name": "Joe and Josef",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "side_chain",
+      "notes": "Reference chain anchor (brief §24). Create an original character/chain; do not reuse names as-is in delivered content."
+    },
+    {
+      "id": "side.trevors_rampages",
+      "name": "Trevor's rampages",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "side_chain",
+      "notes": "Reference chain anchor (brief §24). Create an original character/chain; do not reuse names as-is in delivered content."
+    },
+    {
+      "id": "side.chop",
+      "name": "Chop",
+      "status": "unresearched",
+      "source": "brief: master prompt sections cited per registry",
+      "confidence": "unknown",
+      "reference_aliases": [],
+      "edition_gate": [
+        "enhanced_ps5_xsx_pc"
+      ],
+      "test_ids": [],
+      "category": "side_chain",
+      "notes": "Reference chain anchor (brief §24). Create an original character/chain; do not reuse names as-is in delivered content."
+    }
+  ]
+}
